@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+img.alineadoTextoImagenCentro{
+  vertical-align: middle;
+}
+
+img.alineadoTextoImagenCentro2{
+  vertical-align: middle;
+  margin-left: 75px;
+  margin-top: -35px;
+}
+
+img.alineadoTextoImagenCentro3{
+  vertical-align: middle;
+  margin-top: -35px;
+}
+
+div.banner{
+	margin-left: 60px;
+}
+
+ul.upper-menu-1{
+	list-style: none;
+	display: inline-flex;
+	padding: 5px;
+	width: 100%;
+	text-decoration: none;
+	background-color: #ff7c06;
+	box-sizing: initial;
+}
+
+div.card-deck{
+	display: inline-flex;
+}
+
+h4#promo{
+	font-size: 40px;
+	margin-top: 60px;
+	margin-left: 40%;
+	color: black;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a#menu{
+	font-size: 14px;
+	text-decoration: none;
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #fff;
+	font-family: 'Assistant', sans-serif;
+}
+div.productos-oferta{
+	margin-top: 30px;
+	width: 100%;
+	background-color: #f7f7f7;
+}
+
+img#product{
+	margin-left: 60px;
+}
+
+h3.destacados{
+	font-size: 40px;
+	margin-top: 40px;
+	color: #ff7c06;
+	padding: 40px;
+	margin-left: 40px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+img#beer-icon{
+	margin-left: 75px;
+	margin-top: -45px;
+}
+
+a#menu-2{
+	list-style: none;
+	font-size: 21px;
+	color: black;
+	padding-right: 20px;
+	padding-left: 20px;
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h5.card-title{
+	font-size: 18px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p.payment{
+	color: #c8c8c8;
+	font-size: 14px;
+	font-family: 'Assistant', sans-serif;
+}
+
+p.price{
+	color: #ff7c06;
+	font-size: 23px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+div.image {
+	width: 100%;
+	max-width: 280px;
+	max-height: 280px;
+	background-image: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMS4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMxLjQ5IDMxLjQ5IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAzMS40OSAzMS40OTsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIzMnB4IiBoZWlnaHQ9IjMycHgiPgo8cGF0aCBkPSJNMjEuMjA1LDUuMDA3Yy0wLjQyOS0wLjQ0NC0xLjE0My0wLjQ0NC0xLjU4NywwYy0wLjQyOSwwLjQyOS0wLjQyOSwxLjE0MywwLDEuNTcxbDguMDQ3LDguMDQ3SDEuMTExICBDMC40OTIsMTQuNjI2LDAsMTUuMTE4LDAsMTUuNzM3YzAsMC42MTksMC40OTIsMS4xMjcsMS4xMTEsMS4xMjdoMjYuNTU0bC04LjA0Nyw4LjAzMmMtMC40MjksMC40NDQtMC40MjksMS4xNTksMCwxLjU4NyAgYzAuNDQ0LDAuNDQ0LDEuMTU5LDAuNDQ0LDEuNTg3LDBsOS45NTItOS45NTJjMC40NDQtMC40MjksMC40NDQtMS4xNDMsMC0xLjU3MUwyMS4yMDUsNS4wMDd6IiBmaWxsPSIjZmY3YzA2Ii8+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=)
+	vertical-align:middle;
+}
+
+div.image {
+	width: 100%;
+	max-width: 280px;
+	max-height: 280px;
+	background-image: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMS4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMxLjQ5NCAzMS40OTQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMxLjQ5NCAzMS40OTQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIiB3aWR0aD0iMzJweCIgaGVpZ2h0PSIzMnB4Ij4KPHBhdGggZD0iTTEwLjI3Myw1LjAwOWMwLjQ0NC0wLjQ0NCwxLjE0My0wLjQ0NCwxLjU4NywwYzAuNDI5LDAuNDI5LDAuNDI5LDEuMTQzLDAsMS41NzFsLTguMDQ3LDguMDQ3aDI2LjU1NCAgYzAuNjE5LDAsMS4xMjcsMC40OTIsMS4xMjcsMS4xMTFjMCwwLjYxOS0wLjUwOCwxLjEyNy0xLjEyNywxLjEyN0gzLjgxM2w4LjA0Nyw4LjAzMmMwLjQyOSwwLjQ0NCwwLjQyOSwxLjE1OSwwLDEuNTg3ICBjLTAuNDQ0LDAuNDQ0LTEuMTQzLDAuNDQ0LTEuNTg3LDBsLTkuOTUyLTkuOTUyYy0wLjQyOS0wLjQyOS0wLjQyOS0xLjE0MywwLTEuNTcxTDEwLjI3Myw1LjAwOXoiIGZpbGw9IiNmZjdjMDYiLz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==)
+	vertical-align:middle;
+}
+
+a#menu-2:hover{
+	color: #ff7c06;
+}
+
+div#mail{
+	background: rgb(255,76,6);
+background: linear-gradient(90deg, rgba(255,76,6,1) 0%, rgba(255,124,6,1) 100%);
+}
+
+h3#subscribe{
+	margin-left: 36%;
+	margin-top: 40px;
+	font-size: 70px;
+	color: #fff;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p.news{
+	font-family: 'Assistant', sans-serif;
+	font-size: 24px;
+	color: #fff;
+	margin-left: 36%;
+	margin-top: -15px;
+}
+
+input#email{
+	width: 40%;
+	padding: 10px;
+	margin-left: 28%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: 'Assistant', sans-serif;
+	font-size: 20px;
+	border-top-right-radius: 40px;
+	border-top-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+}
+
+a#franchise{
+	list-style: none;
+	font-size: 20px;
+	padding-left: 25px;
+	padding-right: 10px;
+	margin-left: 15%;
+	color: #fff;
+	display: inline-flex;
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a#client{
+	list-style: none;
+	font-size: 14px;
+	padding-left: 25px;
+	padding-right: 10px;
+	margin-left: 27%;
+	color: #fff;
+	display: inline-flex;
+	text-decoration: none;
+	font-family: 'Assistant', sans-serif;
+}
+
+
+#img-logo{
+	vertical-align: middle;
+}
+
+#img-icon{
+	float: left;
+}
+
+img#menu-icon{
+	vertical-align: middle;
+}
+
+ul.upper-menu-2{
+	color: #fff;
+	background-color: orange;
+	width: 25%;
+	box-sizing: initial;
+}
+
+ul.social{
+	text-decoration:none;
+	list-style: none;
+	margin-left: 40%;
+	margin-top: 20px;
+}
+
+div.image {
+	max-width: 270px;
+	max-height: 270px;
+	background-image: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTguMS4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI1MC4zMTMgMjUwLjMxMyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjUwLjMxMyAyNTAuMzEzOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjI0cHgiIGhlaWdodD0iMjRweCI+CjxnIGlkPSJTZWFyY2giPgoJPHBhdGggc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkOyIgZD0iTTI0NC4xODYsMjE0LjYwNGwtNTQuMzc5LTU0LjM3OGMtMC4yODktMC4yODktMC42MjgtMC40OTEtMC45My0wLjc2ICAgYzEwLjctMTYuMjMxLDE2Ljk0NS0zNS42NiwxNi45NDUtNTYuNTU0QzIwNS44MjIsNDYuMDc1LDE1OS43NDcsMCwxMDIuOTExLDBTMCw0Ni4wNzUsMCwxMDIuOTExICAgYzAsNTYuODM1LDQ2LjA3NCwxMDIuOTExLDEwMi45MSwxMDIuOTExYzIwLjg5NSwwLDQwLjMyMy02LjI0NSw1Ni41NTQtMTYuOTQ1YzAuMjY5LDAuMzAxLDAuNDcsMC42NCwwLjc1OSwwLjkyOWw1NC4zOCw1NC4zOCAgIGM4LjE2OSw4LjE2OCwyMS40MTMsOC4xNjgsMjkuNTgzLDBDMjUyLjM1NCwyMzYuMDE3LDI1Mi4zNTQsMjIyLjc3MywyNDQuMTg2LDIxNC42MDR6IE0xMDIuOTExLDE3MC4xNDYgICBjLTM3LjEzNCwwLTY3LjIzNi0zMC4xMDItNjcuMjM2LTY3LjIzNWMwLTM3LjEzNCwzMC4xMDMtNjcuMjM2LDY3LjIzNi02Ny4yMzZjMzcuMTMyLDAsNjcuMjM1LDMwLjEwMyw2Ny4yMzUsNjcuMjM2ICAgQzE3MC4xNDYsMTQwLjA0NCwxNDAuMDQzLDE3MC4xNDYsMTAyLjkxMSwxNzAuMTQ2eiIgZmlsbD0iI2ZmN2MwNiIvPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=)
+	
+}
+
+div.image {
+	max-width: 280px;
+	max-height: 280px;
+	background-image: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTYuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDYxMiA2MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDYxMiA2MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8Zz4KCQk8cGF0aCBkPSJNNjEyLDMwNkM2MTIsMTM3LjAwNCw0NzQuOTk1LDAsMzA2LDBDMTM3LjAwNCwwLDAsMTM3LjAwNCwwLDMwNmMwLDE2OC45OTUsMTM3LjAwNCwzMDYsMzA2LDMwNiAgICBDNDc0Ljk5NSw2MTIsNjEyLDQ3NC45OTUsNjEyLDMwNnogTTI3LjgxOCwzMDZDMjcuODE4LDE1Mi4zNiwxNTIuMzYsMjcuODE4LDMwNiwyNy44MThTNTg0LjE4MiwxNTIuMzYsNTg0LjE4MiwzMDYgICAgUzQ1OS42NCw1ODQuMTgyLDMwNiw1ODQuMTgyUzI3LjgxOCw0NTkuNjQsMjcuODE4LDMwNnoiIGZpbGw9IiMwMDAwMDAiLz4KCQk8cGF0aCBkPSJNMzE3LjczOSw0ODIuNjE3VjMwNmg1OC4yNzlsOS4yMDgtNTguNTI5aC02Ny40ODd2LTI5LjM0OGMwLTE1LjI3Miw1LjAwNy0yOS44NDksMjYuOTI4LTI5Ljg0OWg0My44MTN2LTU4LjQxOGgtNjIuMjAxICAgIGMtNTIuMjk4LDAtNjYuNTY5LDM0LjQzOC02Ni41NjksODIuMTc1djM1LjQxM2gtMzUuODg1VjMwNmgzNS44ODV2MTc2LjYxN0gzMTcuNzM5TDMxNy43MzksNDgyLjYxN3oiIGZpbGw9IiMwMDAwMDAiLz4KCTwvZz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K)
+}
+
+img#main-banner{
+	width: 100%;
+}
+
+/* Gray */
+.btn {
+    border-radius: 20px;
+    background-color: none;
+
+}
+
+.default {
+    border-color: #e7e7e7;
+    border-width: 3px;
+    color: black;
+}
+
+.default:hover {
+    background: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+div.footer-menu{
+	font-family: 'Assistant', sans-serif;
+	font-size: 14px;
+	color: black;
+	list-style-type: circle;
+	margin-left: 15%;
+}
+
+#logo-footer{
+	margin-top: 30px;
+}
+
+p.copyright{
+	font-family: 'Assistant', sans-serif;
+	font-size: 14px;
+	color: #b0afaf;
+	list-style-type: circle;
+	margin-left: 43%;
+	margin-top: 20px;
+}
+
+div#background{
+	width: 100%;
+	background-color: #efefef;
+}
